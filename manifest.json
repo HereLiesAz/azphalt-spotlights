@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Two-point studio lighting for the layer: a white key from the upper left, a blue rim from the lower right.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
